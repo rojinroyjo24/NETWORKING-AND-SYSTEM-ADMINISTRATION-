@@ -9,11 +9,12 @@ echo "please enter a number:"
 read number
 check_odd_even "$number"
 
+<<comment
 OUTPUT
-
 mlm@mlm-desktop:~/Desktop/Rojin/NW LAB$ chmod +x p1.sh
 mlm@mlm-desktop:~/Desktop/Rojin/NW LAB$ ./p1.sh
 please enter a number:
 5
 5 is odd
+comment
 
