@@ -16,6 +16,10 @@ done
 <<comment
 create a file marks.txt
 
+Rojin:90%
+visal:98%
+Zaina:80%
+
 OUTPUT
 
 mlm@mlm-desktop:~/Desktop/Rojin/NW LAB$ chmod +x grade.sh
